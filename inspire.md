@@ -22,6 +22,7 @@
 ## Wallpapers
 - Codeberg wallpapers: [https://codeberg.org/celestialdruid/wallpapers/src/branch/main/animated]
 - MotionBackgrounds: [https://motionbgs.com/]
+- DesktopHut:[https://www.desktophut.com/]
 
 ## PixelArt
 - Skyrim armors: [https://cl.pinterest.com/pin/307089268360776267/]
