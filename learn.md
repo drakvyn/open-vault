@@ -22,4 +22,6 @@
 
 ## PixelArt
 
-
+## 3D: Low Poly
+- Blender: Clouds [https://www.youtube.com/shorts/DWGpqrHwb7I]
+- Blender: Rocks [https://www.youtube.com/watch?v=1H2YaRPfpdM]
